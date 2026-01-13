@@ -34,5 +34,8 @@ Generated dynamically using backend data and OpenPDF.
 1. Create MySQL DB: `payroll_db`
 2. Update `application.properties`
 3. Run:
-```bash
-mvn spring-boot:run
+
+git add README.md
+git commit -m "Add README documentation"
+git push
+
