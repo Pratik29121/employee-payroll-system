@@ -36,9 +36,3 @@ Generated dynamically using backend data and OpenPDF.
 3. Run:
 ```bash
 mvn spring-boot:run
-
-Then:
-```bash
-git add README.md
-git commit -m "Add README documentation"
-git push
